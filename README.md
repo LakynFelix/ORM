@@ -1,4 +1,4 @@
-# Ecoomerce BACKEND 
+# Ecomerce BACKEND 
 
 # Table of Contents 
 * [Description](#descriptionofproject)  
@@ -8,7 +8,7 @@
 * [Collaborators](#collaborators)   
  
 
-#  Ecoomerce BACKEND 
+#  Ecomerce BACKEND 
 
  
 # Description: 
